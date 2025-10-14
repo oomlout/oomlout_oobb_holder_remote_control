@@ -1,0 +1,2278 @@
+classification: project
+color: oomlout_oobb_holder_remote_control
+description_extra: esc_kingmodel_10ax2_top_holes_extra
+description_main: holder_remote_control_4_width_3_height_3_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+height: 3
+holes: top
+id: project_github_oomlout_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra
+id_oobb: oobb_part_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra
+kwargs:
+  description_extra: esc_kingmodel_10ax2
+  extra: esc_kingmodel_10ax2_top_holes
+  filter: ''
+  height: 3
+  holes: top
+  modes:
+  - 3dpr
+  navigation: false
+  oomp_classification: project
+  oomp_color: oomlout_oobb_holder_remote_control
+  oomp_description_extra: esc_kingmodel_10ax2_top_holes_extra
+  oomp_description_main: holder_remote_control_4_width_3_height_3_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: false
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  part_details:
+    classification: remote_control
+    classification_capital: Remote Control
+    classification_first_letter: r
+    classification_first_letter_upper: R
+    classification_upper: REMOTE_CONTROL
+    color: 10_amp_maximum_current
+    color_capital: 10 Amp Maximum Current
+    color_first_letter: '1'
+    color_first_letter_upper: '1'
+    color_upper: 10_AMP_MAXIMUM_CURRENT
+    description_extra: 6s_22_volt_maximum
+    description_extra_capital: 6S 22 Volt Maximum
+    description_extra_first_letter: '6'
+    description_extra_first_letter_upper: '6'
+    description_extra_upper: 6S_22_VOLT_MAXIMUM
+    description_main: 25_mm_width_45_mm_height_black_pcb
+    description_main_capital: 25 mm Width 45 mm Height Black Pcb
+    description_main_first_letter: '2'
+    description_main_first_letter_upper: '2'
+    description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+    description_only_numbers: '2545'
+    description_only_numbers_short: 2k5
+    description_or_color: 12k5
+    description_or_color_upper: 12K5
+    directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    distributors: []
+    id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    manufacturer: kingmodel
+    manufacturer_capital: Kingmodel
+    manufacturer_first_letter: k
+    manufacturer_first_letter_upper: K
+    manufacturer_upper: KINGMODEL
+    manufacturers: []
+    markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+      Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+      Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+    markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+    md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+    md5_10: 0572f3f4c8
+    md5_10_upper: 0572F3F4C8
+    md5_5: 0572f
+    md5_5_upper: 0572F
+    md5_6: 0572f3
+    md5_6_alpha: 7njn
+    md5_6_alpha_upper: 7NJN
+    md5_6_upper: 0572F3
+    name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+      Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+    name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+      25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+    name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+      Volt Maximum Kingmodel 10Ax2
+    name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+      6S 22 Volt Maximum Kingmodel 10Ax2
+    name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black
+      Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+    oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    oomp_word: kissing dolls two
+    oomp_word_emoji: ':kissing: :dolls: :two:'
+    oomp_word_emoji_list:
+    - ':kissing:'
+    - ':dolls:'
+    - ':two:'
+    oomp_word_list:
+    - kissing
+    - dolls
+    - two
+    part_number: 10ax2
+    part_number_capital: 10Ax2
+    part_number_exact: 10AX2
+    part_number_first_letter: '1'
+    part_number_first_letter_upper: '1'
+    part_number_upper: 10AX2
+    short_code: ''
+    short_code_upper: ''
+    size: brushed_style
+    size_capital: Brushed Style
+    size_first_letter: b
+    size_first_letter_upper: B
+    size_only_numbers: ''
+    size_only_numbers_no_zeros: ''
+    size_upper: BRUSHED_STYLE
+    type: electronic_speed_controller
+    type_capital: Electronic Speed Controller
+    type_first_letter: e
+    type_first_letter_upper: E
+    type_upper: ELECTRONIC_SPEED_CONTROLLER
+  part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+  shift_y: 7.5
+  style_attachment: ziptie
+  thickness: 3
+  type: oomlout_oobb_holder_remote_control_holder_remote_control
+  width: 4
+manufacturer: ''
+name: holder_remote_control
+part_number: ''
+part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+project_name: C:\gh\oomlout_oobb_holder_remote_control
+shift_y: 7.5
+size: oomlout
+style_attachment: ziptie
+thickness: 3
+thing:
+  classification: oobb
+  color: ''
+  components:
+  - - depth: 3
+      extra: esc_kingmodel_10ax2_top_holes
+      height: 3
+      pos:
+      - 0
+      - 7.5
+      - 0
+      shape: rounded_rectangle
+      size:
+      - 59
+      - 44
+      - 3
+      type: positive
+      width: 4
+  - - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id001
+        - -22.5
+        - 22.5
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id001
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id001
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id002
+        - -7.5
+        - 22.5
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id002
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id002
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id003
+        - 7.5
+        - 22.5
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id003
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id003
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id004
+        - 22.5
+        - 22.5
+        - 0
+        r: 3.0
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id004
+        r: 3.25
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id004
+        r: 3.0
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id005
+        - -22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id005
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id005
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id006
+        - -15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id006
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id006
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id007
+        - -7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id007
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id007
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id008
+        - 0.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id008
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id008
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id009
+        - 7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id009
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id009
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id010
+        - 15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id010
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id010
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id011
+        - 22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id011
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id011
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id012
+        - -22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id012
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id012
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id013
+        - -15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id013
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id013
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id014
+        - -7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id014
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id014
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id015
+        - 0.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id015
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id015
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id016
+        - 7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id016
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id016
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id017
+        - 15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id017
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id017
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id018
+        - 22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id018
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id018
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id019
+        - -22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id019
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id019
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id020
+        - -15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id020
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id020
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id021
+        - -7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id021
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id021
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id022
+        - 0.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id022
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id022
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id023
+        - 7.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id023
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id023
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id024
+        - 15.0
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id024
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id024
+        r: 1.5
+        shape: cylinder
+        type: negative
+    - - depth: 3
+        h: 3
+        inclusion: laser
+        m: ''
+        pos: &id025
+        - 22.5
+        - 22.5
+        - 0
+        r: 1.5
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 3dpr
+        m: ''
+        pos: *id025
+        r: 1.8
+        shape: cylinder
+        type: negative
+      - depth: 3
+        h: 3
+        inclusion: 'true'
+        m: ''
+        pos: *id025
+        r: 1.5
+        shape: cylinder
+        type: negative
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - 5.0
+        - 13.5
+        - 0
+        shape: cube
+        size:
+        - 5
+        - 3
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - -10.0
+        - 13.5
+        - 0
+        shape: cube
+        size:
+        - 5
+        - 3
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - 5.0
+        - -16.5
+        - 0
+        shape: cube
+        size:
+        - 5
+        - 3
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - -10.0
+        - -16.5
+        - 0
+        shape: cube
+        size:
+        - 5
+        - 3
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - -31.5
+        - -7.0
+        - 0
+        shape: cube
+        size:
+        - 15
+        - 20
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - 13.5
+        - -13.0
+        - 0
+        shape: cube
+        size:
+        - 8
+        - 26
+        - 3
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - 5.0
+        - -16.5
+        - 1.5
+        shape: cube
+        size:
+        - 5
+        - 33
+        - 1.5
+        type: negative
+        width: 4
+  - - - extra: esc_kingmodel_10ax2_top_holes
+        height: 3
+        pos:
+        - -10.0
+        - -16.5
+        - 1.5
+        shape: cube
+        size:
+        - 5
+        - 33
+        - 1.5
+        type: negative
+        width: 4
+  components_objects:
+  - depth: 3
+    description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 0
+    - 7.5
+    - 0
+    save_type: none
+    shape: oobb_plate
+    shift_y: 7.5
+    style_attachment: ziptie
+    thickness: 3
+    type: positive
+    width: 4
+  - both_holes: true
+    depth: 3
+    description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: right
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 0
+    - 7.5
+    - 0
+    save_type: none
+    shape: oobb_holes
+    shift_y: 7.5
+    style_attachment: ziptie
+    thickness: 3
+    type: p
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 7.5
+    - 15
+    - 0
+    position:
+    - 7.5
+    - 15
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 3
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - -7.5
+    - 15
+    - 0
+    position:
+    - -7.5
+    - 15
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 3
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 7.5
+    - -15
+    - 0
+    position:
+    - 7.5
+    - -15
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 3
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - -7.5
+    - -15
+    - 0
+    position:
+    - -7.5
+    - -15
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 3
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - -24
+    - 3
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 15
+    - 20
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 17.5
+    - 0
+    - 0
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 8
+    - 26
+    - 3
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - 7.5
+    - 0
+    - 1.5
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 33
+    - 1.5
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  - description_extra: esc_kingmodel_10ax2
+    extra: esc_kingmodel_10ax2_top_holes
+    filter: ''
+    height: 3
+    holes: top
+    modes:
+    - 3dpr
+    navigation: false
+    oomp_classification: project
+    oomp_color: oomlout_oobb_holder_remote_control
+    oomp_description_extra: ''
+    oomp_description_main: ''
+    oomp_manufacturer: ''
+    oomp_mode: project
+    oomp_part_number: ''
+    oomp_run: false
+    oomp_size: oomlout
+    oomp_type: github
+    overwrite: true
+    part_details:
+      classification: remote_control
+      classification_capital: Remote Control
+      classification_first_letter: r
+      classification_first_letter_upper: R
+      classification_upper: REMOTE_CONTROL
+      color: 10_amp_maximum_current
+      color_capital: 10 Amp Maximum Current
+      color_first_letter: '1'
+      color_first_letter_upper: '1'
+      color_upper: 10_AMP_MAXIMUM_CURRENT
+      description_extra: 6s_22_volt_maximum
+      description_extra_capital: 6S 22 Volt Maximum
+      description_extra_first_letter: '6'
+      description_extra_first_letter_upper: '6'
+      description_extra_upper: 6S_22_VOLT_MAXIMUM
+      description_main: 25_mm_width_45_mm_height_black_pcb
+      description_main_capital: 25 mm Width 45 mm Height Black Pcb
+      description_main_first_letter: '2'
+      description_main_first_letter_upper: '2'
+      description_main_upper: 25_MM_WIDTH_45_MM_HEIGHT_BLACK_PCB
+      description_only_numbers: '2545'
+      description_only_numbers_short: 2k5
+      description_or_color: 12k5
+      description_or_color_upper: 12K5
+      directory: parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      distributors: []
+      id: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_class: electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_size: 10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      id_no_type: brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      manufacturer: kingmodel
+      manufacturer_capital: Kingmodel
+      manufacturer_first_letter: k
+      manufacturer_first_letter_upper: K
+      manufacturer_upper: KINGMODEL
+      manufacturers: []
+      markdown_full: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br>[](none)<br>[Remote
+        Control Electronic Speed Controller Brushed Style 10 Amp Maximum Current 25
+        Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2](none)<br><br>'
+      markdown_short: '[remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2](none)<br><br>'
+      md5: 0572f3f4c8c07fb4c8b6d3ec5afdd164
+      md5_10: 0572f3f4c8
+      md5_10_upper: 0572F3F4C8
+      md5_5: 0572f
+      md5_5_upper: 0572F
+      md5_6: 0572f3
+      md5_6_alpha: 7njn
+      md5_6_alpha_upper: 7NJN
+      md5_6_upper: 0572F3
+      name: Remote Control Electronic Speed Controller Brushed Style 10 Amp Maximum
+        Current 25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_class: Electronic Speed Controller Brushed Style 10 Amp Maximum Current
+        25 Mm Width 45 Mm Height Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_size: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb 6S 22
+        Volt Maximum Kingmodel 10Ax2
+      name_no_size_short: 10 Amp Maximum Current 25 Mm Width 45 Mm Height Black Pcb
+        6S 22 Volt Maximum Kingmodel 10Ax2
+      name_no_type: Brushed Style 10 Amp Maximum Current 25 Mm Width 45 Mm Height
+        Black Pcb 6S 22 Volt Maximum Kingmodel 10Ax2
+      oomp_key: oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+      oomp_word: kissing dolls two
+      oomp_word_emoji: ':kissing: :dolls: :two:'
+      oomp_word_emoji_list:
+      - ':kissing:'
+      - ':dolls:'
+      - ':two:'
+      oomp_word_list:
+      - kissing
+      - dolls
+      - two
+      part_number: 10ax2
+      part_number_capital: 10Ax2
+      part_number_exact: 10AX2
+      part_number_first_letter: '1'
+      part_number_first_letter_upper: '1'
+      part_number_upper: 10AX2
+      short_code: ''
+      short_code_upper: ''
+      size: brushed_style
+      size_capital: Brushed Style
+      size_first_letter: b
+      size_first_letter_upper: B
+      size_only_numbers: ''
+      size_only_numbers_no_zeros: ''
+      size_upper: BRUSHED_STYLE
+      type: electronic_speed_controller
+      type_capital: Electronic Speed Controller
+      type_first_letter: e
+      type_first_letter_upper: E
+      type_upper: ELECTRONIC_SPEED_CONTROLLER
+    part_oomp: remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
+    pos:
+    - -7.5
+    - 0
+    - 1.5
+    save_type: none
+    shape: oobb_cube
+    shift_y: 7.5
+    size:
+    - 5
+    - 33
+    - 1.5
+    style_attachment: ziptie
+    thickness: 3
+    type: n
+    width: 4
+  components_string:
+  - oobb_plate_shape_positive_type_3_depth_0_7.5_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra
+  - oobb_holes_shape_p_type_3_depth_0_7.5_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_right_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_true_both_holes
+  - oobb_cube_shape_n_type_7.5_15_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_7.5_15_0_position_5_3_3_size
+  - oobb_cube_shape_n_type_-7.5_15_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_-7.5_15_0_position_5_3_3_size
+  - oobb_cube_shape_n_type_7.5_-15_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_7.5_-15_0_position_5_3_3_size
+  - oobb_cube_shape_n_type_-7.5_-15_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_-7.5_-15_0_position_5_3_3_size
+  - oobb_cube_shape_n_type_-24_3_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_15_20_3_size
+  - oobb_cube_shape_n_type_17.5_0_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_8_26_3_size
+  - oobb_cube_shape_n_type_7.5_0_1.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_5_33_1.5_size
+  - oobb_cube_shape_n_type_-7.5_0_1.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_4_width_3_height_3_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_remote_control_oomp_color_esc_kingmodel_10ax2_description_extra_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2_part_oomp_top_holes_ziptie_style_attachment_7.5_shift_y_{'classification':'remote_control'_'classification_capital':'remotecontrol'_'classification_first_letter':'r'_'classification_first_letter_upper':'r'_'classification_upper':'remote_control'_'color':'10_amp_maximum_current'_'color_capital':'10ampmaximumcurrent'_'color_first_letter':'1'_'color_first_letter_upper':'1'_'color_upper':'10_amp_maximum_current'_'description_extra':'6s_22_volt_maximum'_'description_extra_capital':'6s22voltmaximum'_'description_extra_first_letter':'6'_'description_extra_first_letter_upper':'6'_'description_extra_upper':'6s_22_volt_maximum'_'description_main':'25_mm_width_45_mm_height_black_pcb'_'description_main_capital':'25mmwidth45mmheightblackpcb'_'description_main_first_letter':'2'_'description_main_first_letter_upper':'2'_'description_main_upper':'25_mm_width_45_mm_height_black_pcb'_'description_only_numbers':'2545'_'description_only_numbers_short':'2k5'_'description_or_color':'12k5'_'description_or_color_upper':'12k5'_'directory':'parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'distributors':_'id':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_class':'electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_size':'10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'id_no_type':'brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_github':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_main':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'link_redirect':'https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'manufacturer':'kingmodel'_'manufacturer_capital':'kingmodel'_'manufacturer_first_letter':'k'_'manufacturer_first_letter_upper':'k'_'manufacturer_upper':'kingmodel'_'manufacturers':_'markdown_full':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br>(none)<br>remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2(none)<br><br>'_'markdown_short':'remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2(none)<br><br>'_'md5':'0572f3f4c8c07fb4c8b6d3ec5afdd164'_'md5_10':'0572f3f4c8'_'md5_10_upper':'0572f3f4c8'_'md5_5':'0572f'_'md5_5_upper':'0572f'_'md5_6':'0572f3'_'md5_6_alpha':'7njn'_'md5_6_alpha_upper':'7njn'_'md5_6_upper':'0572f3'_'name':'remotecontrolelectronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_class':'electronicspeedcontrollerbrushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_size_short':'10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'name_no_type':'brushedstyle10ampmaximumcurrent25mmwidth45mmheightblackpcb6s22voltmaximumkingmodel10ax2'_'oomp_key':'oomp_remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2'_'oomp_word':'kissingdollstwo'_'oomp_word_emoji':':kissing::dolls::two:'_'oomp_word_emoji_list':':kissing:'_':dolls:'_':two:'_'oomp_word_list':'kissing'_'dolls'_'two'_'part_number':'10ax2'_'part_number_capital':'10ax2'_'part_number_exact':'10ax2'_'part_number_first_letter':'1'_'part_number_first_letter_upper':'1'_'part_number_upper':'10ax2'_'short_code':''_'short_code_upper':''_'size':'brushed_style'_'size_capital':'brushedstyle'_'size_first_letter':'b'_'size_first_letter_upper':'b'_'size_only_numbers':''_'size_only_numbers_no_zeros':''_'size_upper':'brushed_style'_'type':'electronic_speed_controller'_'type_capital':'electronicspeedcontroller'_'type_first_letter':'e'_'type_first_letter_upper':'e'_'type_upper':'electronic_speed_controller'}_part_details_esc_kingmodel_10ax2_top_holes_extra_5_33_1.5_size
+  description: oomlout oobb holder remote control holder remote control 4x3x3
+  description_extra: esc_kingmodel_10ax2_top_holes_extra
+  description_main: 4_width_3_height_3_mm_depth
+  extra: esc_kingmodel_10ax2_top_holes
+  folder: C:\gh\oomlout_oobb_version_4_generated_parts\parts\oobb_part_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra
+  height: 3
+  height_mm: 44
+  id: oobb_part_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra
+  link_main: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/navigation_oomp/oobb/part/oomlout_oobb_holder_remote_control_holder_remote_control/4_width_3_height_3_mm_depth/esc_kingmodel_10ax2_top_holes_extra/part
+  link_redirect: https://github.com/oomlout/oomlout_oobb_version_4_generated_parts/tree/main/parts/oobb_oomlout_oobb_holder_remote_control_holder_remote_control_04_03_03_ex_esc_kingmodel_10ax2_top_holes
+  manufacturer: ''
+  name: Oobb Part Oomlout Oobb Holder Remote Control Holder Remote Control 4 Width
+    3 Height 3 mm Depth Esc Kingmodel 10Ax2 Top Holes Extra
+  name_short: Oomlout Oobb Holder Remote Control
+  part_number: ''
+  short_name: ''
+  size: oomlout_oobb_holder_remote_control_holder_remote_control
+  thickness: 3
+  thickness_mm: 3
+  type: part
+  width: 4
+  width_mm: 59
+type: github
+width: 4

@@ -1,0 +1,6 @@
+* [brushed_style](brushed_style)
+  * [10_amp_maximum_current](brushed_style/10_amp_maximum_current)
+    * [25_mm_width_45_mm_height_black_pcb](brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb)
+      * [6s_22_volt_maximum](brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum)
+        * [kingmodel](brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum/kingmodel)
+          * [10ax2](brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum/kingmodel/10ax2)

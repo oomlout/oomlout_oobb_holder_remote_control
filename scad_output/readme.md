@@ -1,0 +1,14 @@
+# Oomlout oobb holder remote control
+
+
+## parts
+
+### holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra
+* link: [/holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra](holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra)  
+![](holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra/3dpr_300.png)  ![](holder_remote_control_4_width_3_height_3_mm_depth_esc_kingmodel_10ax2_top_holes_extra/image_300.jpg)
+ 
+
+### holder_remote_control_4_width_4_height_3_mm_depth_esc_kingmodel_10ax2_top_and_bottom_holes_extra
+* link: [/holder_remote_control_4_width_4_height_3_mm_depth_esc_kingmodel_10ax2_top_and_bottom_holes_extra](holder_remote_control_4_width_4_height_3_mm_depth_esc_kingmodel_10ax2_top_and_bottom_holes_extra)  
+![](holder_remote_control_4_width_4_height_3_mm_depth_esc_kingmodel_10ax2_top_and_bottom_holes_extra/3dpr_300.png)  ![](holder_remote_control_4_width_4_height_3_mm_depth_esc_kingmodel_10ax2_top_and_bottom_holes_extra/image_300.jpg)
+ 

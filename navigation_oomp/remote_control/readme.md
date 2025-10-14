@@ -1,0 +1,7 @@
+* [electronic_speed_controller](electronic_speed_controller)
+  * [brushed_style](electronic_speed_controller/brushed_style)
+    * [10_amp_maximum_current](electronic_speed_controller/brushed_style/10_amp_maximum_current)
+      * [25_mm_width_45_mm_height_black_pcb](electronic_speed_controller/brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb)
+        * [6s_22_volt_maximum](electronic_speed_controller/brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum)
+          * [kingmodel](electronic_speed_controller/brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum/kingmodel)
+            * [10ax2](electronic_speed_controller/brushed_style/10_amp_maximum_current/25_mm_width_45_mm_height_black_pcb/6s_22_volt_maximum/kingmodel/10ax2)
