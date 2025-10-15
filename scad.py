@@ -121,7 +121,7 @@ def make_scad(**kwargs):
 
 
         holders = []
-        #electronic_dc_to_dc_converter_buck_style_300_watt_20_amp_52_mm_width_60_mm_length_blue_pcb_aliexpress
+        #remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2
         if True:
             holder_current = {}
             holder_current["description_extra"] = "esc_kingmodel_10ax2"
@@ -139,6 +139,27 @@ def make_scad(**kwargs):
             holder_current["shift_y"] = 7.5
             holder_current["holes"] = "top"
             holders.append(holder_current)
+
+        #remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+        if True:
+            holder_current = {}
+            holder_current["description_extra"] = "rx_radiolink_at9"
+            holder_current["part_oomp"] = "remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9"
+            holder_current["width"] = 4
+            holder_current["height"] = 4
+            holder_current["thickness"] = 3
+            holder_current["holes"] = "top_and_bottom"
+            holder_current["style_attachment"] = "ziptie"
+            holders.append(holder_current)
+
+
+            holder_current = copy.deepcopy(holder_current)
+            holder_current["height"] = 3
+            holder_current["shift_y"] = 7.5
+            holder_current["holes"] = "top"
+            holders.append(holder_current)
+
+
 
         for holder in holders:
             
@@ -328,10 +349,10 @@ def get_holder_remote_control(thing, **kwargs):
             p3 = add_standoff(thing, **kwargs2, position=pos1)
     elif style_attachment == "ziptie":
         poss = []
-        if oomp_id == "remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2":
+        if oomp_id == "remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2" or oomp_id == "remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9":
             shift_xx = 7.5
             shift_yy = 15
-
+            
         pos1 = copy.deepcopy(pos)
         pos1[2] += 0
         pos11 = copy.deepcopy(pos1)
@@ -370,6 +391,15 @@ def get_holder_remote_control(thing, **kwargs):
             cutout["pos"] = [17.5, 0, 0]
             cutouts.append(cutout)
             cutout = {}
+        if oomp_id == "remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9":
+            cutout = {}            
+            cutout["size"] = [42, 24,1]
+            cutout["pos"] = [0, 0, 0]
+            cutouts.append(cutout)
+            
+        #ziptie cutouts
+        if oomp_id == "remote_control_electronic_speed_controller_brushed_style_10_amp_maximum_current_25_mm_width_45_mm_height_black_pcb_6s_22_volt_maximum_kingmodel_10ax2" or oomp_id == "remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9":
+            cutout = {}
             cutout["size"] = [5,33,1.5]
             cutout["pos"] = [7.5, 0, 1.5]
             cutouts.append(cutout)
@@ -377,13 +407,13 @@ def get_holder_remote_control(thing, **kwargs):
             cutout["size"] = [5,33,1.5]
             cutout["pos"] = [-7.5, 0, 1.5]
             cutouts.append(cutout)
-            
+        pass  
         for cutout in cutouts:
             p3 = copy.deepcopy(kwargs)
             p3["type"] = "n"
             p3["shape"] = f"oobb_cube"
             p3.update(cutout)
-            #p3["m"] = "#"
+            p3["m"] = "#"
             oobb_base.append_full(thing,**p3)
 
 

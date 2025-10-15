@@ -1,0 +1,145 @@
+classification: project
+color: oomlout_oobb_holder_remote_control
+description_extra: rx_radiolink_at9_top_and_bottom_holes_extra
+description_main: holder_remote_control_4_width_4_height_3_mm_depth
+full_rotations:
+- 0
+- 0
+- 0
+full_shift:
+- 0
+- 0
+- 0
+height: 4
+holes: top_and_bottom
+id: project_github_oomlout_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_4_height_3_mm_depth_rx_radiolink_at9_top_and_bottom_holes_extra
+id_oobb: oobb_part_oomlout_oobb_holder_remote_control_holder_remote_control_4_width_4_height_3_mm_depth_rx_radiolink_at9_top_and_bottom_holes_extra
+kwargs:
+  description_extra: rx_radiolink_at9
+  extra: rx_radiolink_at9_top_and_bottom_holes
+  filter: ''
+  height: 4
+  holes: top_and_bottom
+  modes:
+  - 3dpr
+  navigation: false
+  oomp_classification: project
+  oomp_color: oomlout_oobb_holder_remote_control
+  oomp_description_extra: rx_radiolink_at9_top_and_bottom_holes_extra
+  oomp_description_main: holder_remote_control_4_width_4_height_3_mm_depth
+  oomp_manufacturer: ''
+  oomp_mode: project
+  oomp_part_number: ''
+  oomp_run: false
+  oomp_size: oomlout
+  oomp_type: github
+  overwrite: true
+  part_details:
+    classification: remote_control
+    classification_capital: Remote Control
+    classification_first_letter: r
+    classification_first_letter_upper: R
+    classification_upper: REMOTE_CONTROL
+    color: dual_joystick_style
+    color_capital: Dual Joystick Style
+    color_first_letter: d
+    color_first_letter_upper: D
+    color_upper: DUAL_JOYSTICK_STYLE
+    description_extra: ''
+    description_extra_capital: ''
+    description_extra_first_letter: ''
+    description_extra_first_letter_upper: ''
+    description_extra_upper: ''
+    description_main: receiver_full
+    description_main_capital: Receiver Full
+    description_main_first_letter: r
+    description_main_first_letter_upper: R
+    description_main_upper: RECEIVER_FULL
+    description_only_numbers: ''
+    description_only_numbers_short: ' '
+    description_or_color: 'D '
+    description_or_color_upper: 'D '
+    directory: parts/remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    distributors: []
+    id: remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    id_no_class: transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    id_no_size: dual_joystick_style_receiver_full_radiolink_at9
+    id_no_type: 2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    link_distributor_radiolink: https://www.radiolink.com.cn/at9spro_firmwares
+    link_github: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    link_main: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    link_redirect: https://github.com/oomlout/oomlout_oomp_version_1_messy/tree/main/parts/remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    manufacturer: radiolink
+    manufacturer_capital: Radiolink
+    manufacturer_first_letter: r
+    manufacturer_first_letter_upper: R
+    manufacturer_upper: RADIOLINK
+    manufacturers: []
+    markdown_full: '[remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9](none)<br>[](none)<br>[Remote
+      Control Transmitter Receiver Kit 2 4 Ghz 10 Channel Dual Joystick Style Receiver
+      Full Radiolink At9](none)<br><br>'
+    markdown_short: '[remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9](none)<br><br>'
+    md5: 6f08b9a9fbf00fe43bd6bcc9a7ff64d2
+    md5_10: 6f08b9a9fb
+    md5_10_upper: 6F08B9A9FB
+    md5_5: 6f08b
+    md5_5_upper: 6F08B
+    md5_6: 6f08b9
+    md5_6_alpha: 4byrd
+    md5_6_alpha_upper: 4BYRD
+    md5_6_upper: 6F08B9
+    name: Remote Control Transmitter Receiver Kit 2 4 Ghz 10 Channel Dual Joystick
+      Style Receiver Full Radiolink At9
+    name_no_class: Transmitter Receiver Kit 2 4 Ghz 10 Channel Dual Joystick Style
+      Receiver Full Radiolink At9
+    name_no_size: Dual Joystick Style Receiver Full Radiolink At9
+    name_no_size_short: Dual Joystick Style Receiver Full Radiolink At9
+    name_no_type: 2 4 Ghz 10 Channel Dual Joystick Style Receiver Full Radiolink At9
+    oomp_key: oomp_remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+    oomp_word: moon scream fries
+    oomp_word_emoji: ':moon: :scream: :fries:'
+    oomp_word_emoji_list:
+    - ':moon:'
+    - ':scream:'
+    - ':fries:'
+    oomp_word_list:
+    - moon
+    - scream
+    - fries
+    part_number: at9
+    part_number_capital: At9
+    part_number_distributor_radiolink: AT9SPro
+    part_number_exact: AT9
+    part_number_first_letter: a
+    part_number_first_letter_upper: A
+    part_number_upper: AT9
+    short_code: ''
+    short_code_upper: ''
+    short_name: Transmitter Kit 10 Channel
+    size: 2_4_ghz_10_channel
+    size_capital: 2.4 Ghz 10 Channel
+    size_first_letter: '2'
+    size_first_letter_upper: '2'
+    size_only_numbers: '2410'
+    size_only_numbers_no_zeros: '241'
+    size_upper: 2_4_GHZ_10_CHANNEL
+    type: transmitter_receiver_kit
+    type_capital: Transmitter Receiver Kit
+    type_first_letter: t
+    type_first_letter_upper: T
+    type_upper: TRANSMITTER_RECEIVER_KIT
+  part_oomp: remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+  style_attachment: ziptie
+  thickness: 3
+  type: oomlout_oobb_holder_remote_control_holder_remote_control
+  width: 4
+manufacturer: ''
+name: holder_remote_control
+part_number: ''
+part_oomp: remote_control_transmitter_receiver_kit_2_4_ghz_10_channel_dual_joystick_style_receiver_full_radiolink_at9
+project_name: C:\gh\oomlout_oobb_holder_remote_control
+size: oomlout
+style_attachment: ziptie
+thickness: 3
+type: github
+width: 4

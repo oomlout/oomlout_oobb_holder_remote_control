@@ -1563,6 +1563,7 @@ thing:
         width: 4
   - - - extra: esc_kingmodel_10ax2_top_and_bottom_holes
         height: 4
+        m: '#'
         pos:
         - -31.5
         - -7.0
@@ -1576,6 +1577,7 @@ thing:
         width: 4
   - - - extra: esc_kingmodel_10ax2_top_and_bottom_holes
         height: 4
+        m: '#'
         pos:
         - 13.5
         - -13.0
@@ -1589,6 +1591,7 @@ thing:
         width: 4
   - - - extra: esc_kingmodel_10ax2_top_and_bottom_holes
         height: 4
+        m: '#'
         pos:
         - 5.0
         - -16.5
@@ -1602,6 +1605,7 @@ thing:
         width: 4
   - - - extra: esc_kingmodel_10ax2_top_and_bottom_holes
         height: 4
+        m: '#'
         pos:
         - -10.0
         - -16.5
@@ -2399,6 +2403,7 @@ thing:
     filter: ''
     height: 4
     holes: top_and_bottom
+    m: '#'
     modes:
     - 3dpr
     navigation: false
@@ -2527,6 +2532,7 @@ thing:
     filter: ''
     height: 4
     holes: top_and_bottom
+    m: '#'
     modes:
     - 3dpr
     navigation: false
@@ -2655,6 +2661,7 @@ thing:
     filter: ''
     height: 4
     holes: top_and_bottom
+    m: '#'
     modes:
     - 3dpr
     navigation: false
@@ -2783,6 +2790,7 @@ thing:
     filter: ''
     height: 4
     holes: top_and_bottom
+    m: '#'
     modes:
     - 3dpr
     navigation: false
